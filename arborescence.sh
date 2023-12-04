@@ -24,4 +24,4 @@ echo "@import ./_nav
 @import ./_header
 @import ./nav
 @import ./_section
-@import ./_footer" > public/src/sass/modules/style.sass
+@import ./_footer" > public/src/sass/modules/_style.sass
