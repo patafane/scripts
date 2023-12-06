@@ -28,3 +28,4 @@ echo "@import ./_nav
 @import ./_footer" > public/src/sass/modules/_style.sass
 npm init -y
 npm install bootstrap
+npm install @fortawesome/fontawesome-free
